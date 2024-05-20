@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Camila Leiva
+- 👀 I’m interested in digital design, research and music.
+- 🌱 I’m currently learning UX/UI/Agile Design
+- 💞️ I’m looking to collaborate on a Design Team.
+- 📫 How to reach me: camila.leivab@sansano.usm.cl
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have too many hobbbies because I like to learn about everything.
+
+<!---
+Camileinl/Camileinl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
