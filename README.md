@@ -2,7 +2,7 @@
 - 👀 I’m interested in digital design, research and music.
 - 🌱 I’m currently learning UX/UI/Agile Design
 - 💞️ I’m looking to collaborate on a Design Team.
-- 📫 How to reach me: camila.leivab@sansano.usm.cl
+- 📫 How to reach me: camifer0211@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have too many hobbbies because I like to learn about everything.
 
