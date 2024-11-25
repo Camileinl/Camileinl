@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Camila Leiva
 - 👀 I’m interested in digital design, research and music.
-- 🌱 I’m currently learning UX/UI/Agile Design
+- 🌱 I’m a UX/UI Designer
 - 💞️ I’m looking to collaborate on a Design Team.
 - 📫 How to reach me: camifer0211@gmail.com
 - 😄 Pronouns: she/her
